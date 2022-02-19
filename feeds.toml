@@ -1,11 +1,11 @@
 [flo_newtrack]
 title = "FLO ─ New Track"
 url = "https://www.music-flo.com/new/track?sortType=KPOP"
-entrySelector = "div.section_content_wrap > table > tbody > tr"
-titleSelector = "div.txt_area > button > p > strong"
-linkSelector = "div.txt_area > a"
-imageSelector = "div a img[src^='https://cdn.music-flo.com/image/v2/album/']"
-contentSelector = "span.artist_link_w > span > span:nth-child(1) > a"
+entrySelector = "table.track_list_table tbody tr"
+titleSelector = "p.tit span.tit__inner strong.tit__text"
+linkSelector = "span.artist_link a.last"
+imageSelector = "div.thumb a img"
+contentSelector = "span.artist_link a.last"
 waitUntil = "networkidle"
 
 [flo_newalbum]
