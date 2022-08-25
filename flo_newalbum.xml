@@ -4,47 +4,55 @@
         <title>FLO ─ New Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 21:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 22:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑 그런거]]></title>
+            <link>https://www.music-flo.com/detail/album/edyaeeean/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edyaeeean/albumtrack</guid>
+            <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddezezi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1184d9cdb2a#head--> 2am <!--fragment#1184d9cdb2a#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/412/144/09/04/409144412_6305c005_o.jpg?1661321223408/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[둘만 있는 세상에서]]></title>
+            <link>https://www.music-flo.com/detail/album/edyadhloh/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edyadhloh/albumtrack</guid>
+            <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdayaydy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#48787c17f4#head--> 장희원 <!--fragment#48787c17f4#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/578/108/09/04/409108578_62ff4a96_s.jpg?1660897944742/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DIAMOND (다이아몬드)]]></title>
             <link>https://www.music-flo.com/detail/album/edyaeeada/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeeada/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ndddnaha/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5f2aad00f4#head--> 더 베인 (The VANE) <!--fragment#5f2aad00f4#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ndddnaha/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#576392e90d#head--> 더 베인 (The VANE) <!--fragment#576392e90d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/101/144/09/04/409144101_6305ae2c_o.jpg?1661316653209/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[love you more,]]></title>
-            <link>https://www.music-flo.com/detail/album/edyaihoey/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edyaihoey/albumtrack</guid>
-            <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeideohd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#37a09f70fd#head--> YOUHA (유하) <!--fragment#37a09f70fd#tail--></a></span>]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/749/138/09/04/409138749_63049cbd_o.jpg?1661246654293/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나쁜 남자]]></title>
             <link>https://www.music-flo.com/detail/album/edyaeeehi/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeeehi/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edehizaoa/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#10b428de24c#head--> 정피트 <!--fragment#10b428de24c#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edehizaoa/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#3ffb6bf4f3#head--> 정피트 <!--fragment#3ffb6bf4f3#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/483/144/09/04/409144483_6305c400_o.jpg?1661322241485/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NO PAIN]]></title>
-            <link>https://www.music-flo.com/detail/album/edyaeizez/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edyaeizez/albumtrack</guid>
-            <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdneeaza/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13dbce521fb#head--> 실리카겔 <!--fragment#13dbce521fb#tail--></a></span>]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/646/143/09/04/409143646_630592f5_o.jpg?1661309686449/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+            <title><![CDATA[love you more,]]></title>
+            <link>https://www.music-flo.com/detail/album/edyaihoey/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edyaihoey/albumtrack</guid>
+            <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeideohd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#46cd9eb2b2#head--> YOUHA (유하) <!--fragment#46cd9eb2b2#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/749/138/09/04/409138749_63049cbd_o.jpg?1661246654293/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해피엔딩]]></title>
             <link>https://www.music-flo.com/detail/album/edyaeelal/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeelal/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaiooad/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#bc0e12b1c9#head--> 홍대광 <!--fragment#bc0e12b1c9#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaiooad/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#43c3a8e90c#head--> 홍대광 <!--fragment#43c3a8e90c#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/515/144/09/04/409144515_6305c534_s.jpg?1661322549418/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,47 +60,39 @@
             <link>https://www.music-flo.com/detail/album/edyaeieil/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeieil/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ediohdazd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#d198abf7f1#head--> 준지 (OnlyOneOf) <!--fragment#d198abf7f1#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ediohdazd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#12d2bfd59b0#head--> 준지 (OnlyOneOf) <!--fragment#12d2bfd59b0#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/435/143/09/04/409143435_63058aeb_s.jpg?1661307628140/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Autumn]]></title>
-            <link>https://www.music-flo.com/detail/album/edyaihdae/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edyaihdae/albumtrack</guid>
-            <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ededheeyh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#124963470c0#head--> 다크비 (DKB) <!--fragment#124963470c0#tail--></a></span>]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/014/138/09/04/409138014_6304639c_o.jpg?1661232029444/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둘만 있는 세상에서]]></title>
-            <link>https://www.music-flo.com/detail/album/edyadhloh/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edyadhloh/albumtrack</guid>
-            <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdayaydy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9f14109afa#head--> 장희원 <!--fragment#9f14109afa#tail--></a></span>]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/578/108/09/04/409108578_62ff4a96_s.jpg?1660897944742/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+            <title><![CDATA[NO PAIN]]></title>
+            <link>https://www.music-flo.com/detail/album/edyaeizez/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edyaeizez/albumtrack</guid>
+            <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdneeaza/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1179914ab1b#head--> 실리카겔 <!--fragment#1179914ab1b#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/646/143/09/04/409143646_630592f5_o.jpg?1661309686449/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낮잠 (Nap Fairy) - SM STATION]]></title>
             <link>https://www.music-flo.com/detail/album/edyaeeoai/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeeoai/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnnilyn/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#8d1aff2e7e#head--> 예리 (YERI) <!--fragment#8d1aff2e7e#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdahnozy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#787b701529#head--> 샘김 (Sam Kim) <!--fragment#787b701529#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnnilyn/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#5a3b610474#head--> 예리 (YERI) <!--fragment#5a3b610474#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdahnozy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#10aa986664f#head--> 샘김 (Sam Kim) <!--fragment#10aa986664f#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/713/144/09/04/409144713_6305d815_o.jpg?1661327383014/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사랑 그런거]]></title>
-            <link>https://www.music-flo.com/detail/album/edyaeeean/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edyaeeean/albumtrack</guid>
+            <title><![CDATA[Autumn]]></title>
+            <link>https://www.music-flo.com/detail/album/edyaihdae/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edyaihdae/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddezezi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#fa2a53b52f#head--> 2am <!--fragment#fa2a53b52f#tail--></a></span>]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/412/144/09/04/409144412_6305c005_o.jpg?1661321223408/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ededheeyh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5232bb394d#head--> 다크비 (DKB) <!--fragment#5232bb394d#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/014/138/09/04/409138014_6304639c_o.jpg?1661232029444/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[baby driver (feat. Wondablo)]]></title>
             <link>https://www.music-flo.com/detail/album/edyaelela/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaelela/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddohozo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#b74faf9925#head--> COMA (코마) <!--fragment#b74faf9925#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddohozo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#150b9ae215f#head--> COMA (코마) <!--fragment#150b9ae215f#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/451/145/09/04/409145451_6305f30a_o.jpg?1661334283048/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://www.music-flo.com/detail/album/edyaeeylz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeeylz/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddlaidh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#11383abbe05#head--> W24 <!--fragment#11383abbe05#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddlaidh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#fe56d1a3ed#head--> W24 <!--fragment#fe56d1a3ed#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/956/144/09/04/409144956_6305e802_o.jpg?1661331459897/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <link>https://www.music-flo.com/detail/album/edyainzid/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyainzid/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlahanai/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#16958fc045a#head--> n@di (나디) <!--fragment#16958fc045a#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlahanai/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#50a068c486#head--> n@di (나디) <!--fragment#50a068c486#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/630/132/09/04/409132630_63031b3a_s.jpg?1661147963847/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +116,7 @@
             <link>https://www.music-flo.com/detail/album/edyaeiliz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeiliz/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlnhdzzy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#15bf7732eec#head--> 임엘린 <!--fragment#15bf7732eec#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlnhdzzy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#742e0ccd2d#head--> 임엘린 <!--fragment#742e0ccd2d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/536/143/09/04/409143536_6305907d_o.jpg?1661309053501/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +124,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihaoe/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihaoe/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddhzhln/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#141a1150c92#head--> 윤한 <!--fragment#141a1150c92#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddhzhln/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#90e5021367#head--> 윤한 <!--fragment#90e5021367#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/174/138/09/04/409138174_63046f7d_o.jpg?1661235070135/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiyiii/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiyiii/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlolaodl/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#512ac15c3c#head--> KYTE <!--fragment#512ac15c3c#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edldezohn/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#161c83b7cbb#head--> 창 (CHNG) <!--fragment#161c83b7cbb#tail--></a></span><span artist="[object Object]" index="2" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edelaooeo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#b57b42560c#head--> PARAMOOG <!--fragment#b57b42560c#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlolaodl/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#379026b69b#head--> KYTE <!--fragment#379026b69b#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edldezohn/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#16b0c640c22#head--> 창 (CHNG) <!--fragment#16b0c640c22#tail--></a></span><span artist="[object Object]" index="2" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edelaooeo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5e6aac1030#head--> PARAMOOG <!--fragment#5e6aac1030#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/333/139/09/04/409139333_63057f77_o.jpeg?1661304696018/dims/resize/500x500/quality/90" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -140,7 +140,7 @@
             <link>https://www.music-flo.com/detail/album/edyaeeazy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeeazy/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddohani/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#11c133ed595#head--> SIM2 <!--fragment#11c133ed595#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddohani/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#8a0cb8ddf2#head--> SIM2 <!--fragment#8a0cb8ddf2#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/169/144/09/04/409144169_6305b3eb_o.jpg?1661318124498/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +148,7 @@
             <link>https://www.music-flo.com/detail/album/edydnaelh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydnaelh/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ediyeihya/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#4df9dfc1ed#head--> heyden <!--fragment#4df9dfc1ed#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ediyeihya/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1bc3ac3355#head--> heyden <!--fragment#1bc3ac3355#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/458/021/09/04/409021458_62f37d26_o.jpg?1660124455031/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +156,7 @@
             <link>https://www.music-flo.com/detail/album/edyaeilae/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeilae/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnneoli/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#aebcff2ab5#head--> 정다운 <!--fragment#aebcff2ab5#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnneoli/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#75efdc8f00#head--> 정다운 <!--fragment#75efdc8f00#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/514/143/09/04/409143514_63058e4c_o.jpg?1661308493630/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +164,7 @@
             <link>https://www.music-flo.com/detail/album/edyaeezay/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeezay/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeoolnin/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#105f7de5825#head--> THE PIECES(더 피스) <!--fragment#105f7de5825#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeoolnin/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#64f075aeb8#head--> THE PIECES(더 피스) <!--fragment#64f075aeb8#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/619/144/09/04/409144619_6305d0c6_o.jpg?1661325511324/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +172,7 @@
             <link>https://www.music-flo.com/detail/album/edyaeizld/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeizld/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaoeznh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#18147b7e990#head--> 주영 (리멤버러스) <!--fragment#18147b7e990#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaoeznh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9f2f5730fb#head--> 주영 (리멤버러스) <!--fragment#9f2f5730fb#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/650/143/09/04/409143650_630593f3_o.jpg?1661309940394/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +180,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihayz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihayz/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnhheih/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ec204d0adc#head--> 하성운 <!--fragment#ec204d0adc#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnhheih/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1210174230#head--> 하성운 <!--fragment#1210174230#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/196/138/09/04/409138196_630472a4_s.jpg?1661235878579/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +188,7 @@
             <link>https://www.music-flo.com/detail/album/edyaeizad/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeizad/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ediziaoed/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#17e9e96629b#head--> AB6IX (에이비식스) <!--fragment#17e9e96629b#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ediziaoed/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13b5827d42f#head--> AB6IX (에이비식스) <!--fragment#13b5827d42f#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/610/143/09/04/409143610_6305923d_s.jpg?1661309502094/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -196,7 +196,7 @@
             <link>https://www.music-flo.com/detail/album/edydodney/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydodney/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddeohln/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#570dd8134e#head--> 연수 <!--fragment#570dd8134e#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddeohln/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#e92dd901f9#head--> 연수 <!--fragment#e92dd901f9#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/249/070/09/04/409070249_62fb1ec2_o.jpeg?1660624579883/dims/resize/500x500/quality/90" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -204,7 +204,7 @@
             <link>https://www.music-flo.com/detail/album/edyadhizd/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadhizd/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddonola/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5ab967f295#head--> 해든 (HAEDEUN) <!--fragment#5ab967f295#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddonola/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#53634a9ebb#head--> 해든 (HAEDEUN) <!--fragment#53634a9ebb#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/360/108/09/04/409108360_62ff45e3_o.jpg?1660896740748/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +212,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihdol/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihdol/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edizinyee/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1475a9b2c20#head--> 최유리 <!--fragment#1475a9b2c20#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edizinyee/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#3690d1678f#head--> 최유리 <!--fragment#3690d1678f#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/075/138/09/04/409138075_630468f2_o.jpg?1661233395584/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +220,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiyiin/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiyiin/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edenaaozn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#801d1c99bb#head--> Suyo <!--fragment#801d1c99bb#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edenaaozn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#f3889405f2#head--> Suyo <!--fragment#f3889405f2#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/332/139/09/04/409139332_6304bf85_s.jpg?1661255559665/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +228,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiaeie/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiaeie/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddleyen/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#58aa5a66ad#head--> 김뮤지엄 (KIMMUSEUM) <!--fragment#58aa5a66ad#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddleyen/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5bfa5e0380#head--> 김뮤지엄 (KIMMUSEUM) <!--fragment#5bfa5e0380#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/434/131/09/04/409131434_6302df01_s.jpg?1661132547561/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,7 +236,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihohe/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihohe/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdddaade/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#b334319654#head--> XIA (준수) <!--fragment#b334319654#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdddaade/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#871d494d9c#head--> XIA (준수) <!--fragment#871d494d9c#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/784/138/09/04/409138784_63049f09_o.jpg?1661247242661/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://www.music-flo.com/detail/album/edyaioayo/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaioayo/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdannhoo/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#831cb0e838#head--> JAY B <!--fragment#831cb0e838#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdaohiyl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#812b3df2f2#head--> 영재 (Youngjae) <!--fragment#812b3df2f2#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdannhoo/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#fe88ef1141#head--> JAY B <!--fragment#fe88ef1141#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdaohiyl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#40d08d0346#head--> 영재 (Youngjae) <!--fragment#40d08d0346#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/197/137/09/04/409137197_6304375a_s.jpg?1661220700473/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -252,7 +252,7 @@
             <link>https://www.music-flo.com/detail/album/edydyeied/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydyeied/albumtrack</guid>
             <pubDate>Thu, 25 Aug 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddnynah/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1458fffea19#head--> 민중 <!--fragment#1458fffea19#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddnynah/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#709d6d2937#head--> 민중 <!--fragment#709d6d2937#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/340/094/09/04/409094340_62fdf3ae_o.jpg?1660810158644/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -260,7 +260,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihioy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihioy/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddizdei/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#c9fc54f454#head--> unofficialboyy <!--fragment#c9fc54f454#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/ededyzdad/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#db7afe3ac1#head--> bababa <!--fragment#db7afe3ac1#tail--></a></span><span artist="[object Object]" index="2" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edloeyhoz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#12aa913593a#head--> LGDNR HomeBoy <!--fragment#12aa913593a#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddizdei/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#251f4564b2#head--> unofficialboyy <!--fragment#251f4564b2#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/ededyzdad/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#eda80046b4#head--> bababa <!--fragment#eda80046b4#tail--></a></span><span artist="[object Object]" index="2" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edloeyhoz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ec223f4ba2#head--> LGDNR HomeBoy <!--fragment#ec223f4ba2#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/379/138/09/04/409138379_6304824d_s.jpg?1661239887030/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -268,7 +268,7 @@
             <link>https://www.music-flo.com/detail/album/edyaizyhl/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaizyhl/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edldienyz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#445b8f9aed#head--> ADORA <!--fragment#445b8f9aed#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdnhhadn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#12ccfb00e8b#head--> 김동현 (AB6IX) <!--fragment#12ccfb00e8b#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edldienyz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#10561608ba8#head--> ADORA <!--fragment#10561608ba8#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdnhhadn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#def90ad3d6#head--> 김동현 (AB6IX) <!--fragment#def90ad3d6#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/985/136/09/04/409136985_630428ef_o.jpg?1661217008437/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -276,7 +276,7 @@
             <link>https://www.music-flo.com/detail/album/edyaeeoaz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaeeoaz/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 10:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaileln/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1621c518160#head--> 기수 (KISU) <!--fragment#1621c518160#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaileln/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#102b7c962ee#head--> 기수 (KISU) <!--fragment#102b7c962ee#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/716/144/09/04/409144716_6305d966_s.jpg?1661327720468/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -284,7 +284,7 @@
             <link>https://www.music-flo.com/detail/album/edhyyzzye/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edhyyzzye/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioyeyoa/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#81c252ecbe#head--> BULGOGIDISCO <!--fragment#81c252ecbe#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioyeyoa/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#126bade8941#head--> BULGOGIDISCO <!--fragment#126bade8941#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/694/996/08/04/408996694_62fcec1e_s.jpg?1660742688965/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +292,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihlio/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihlio/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ioone/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1411f9a349f#head--> 거미 <!--fragment#1411f9a349f#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ioone/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1054111ad42#head--> 거미 <!--fragment#1054111ad42#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/537/138/09/04/409138537_63048f66_o.jpg?1661243239434/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,7 +300,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihhln/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihhln/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlenlhel/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#f71e7c01de#head--> BLANK2Y <!--fragment#f71e7c01de#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlenlhel/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1013d5ffafb#head--> BLANK2Y <!--fragment#1013d5ffafb#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/852/138/09/04/409138852_6304a784_s.jpg?1661249415323/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +308,7 @@
             <link>https://www.music-flo.com/detail/album/edydhyyil/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhyyil/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ededhnyhn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#beac347424#head--> 104 (백사) <!--fragment#beac347424#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ededhnyhn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#10a47f5975c#head--> 104 (백사) <!--fragment#10a47f5975c#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/935/089/09/04/409089935_62fda286_s.jpg?1660789384934/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,7 +316,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiiaiy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiiaiy/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddleyee/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#4bdc3c495a#head--> muhpy <!--fragment#4bdc3c495a#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddleyee/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#113ad2f884e#head--> muhpy <!--fragment#113ad2f884e#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/139/133/09/04/409133139_63034a6e_o.jpg?1661160046921/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -324,7 +324,7 @@
             <link>https://www.music-flo.com/detail/album/edydhydde/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhydde/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ediyeeoda/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13a88ef4ea8#head--> 필로 (PiLO) <!--fragment#13a88ef4ea8#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ediyeeoda/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#154975f739d#head--> 필로 (PiLO) <!--fragment#154975f739d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/004/089/09/04/409089004_62fd8f17_s.jpg?1660784409205/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +332,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihned/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihned/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloeyoeh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#293cef4ea8#head--> 유다원 <!--fragment#293cef4ea8#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloeyoeh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13b0bb31b1d#head--> 유다원 <!--fragment#13b0bb31b1d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/240/138/09/04/409138240_630475dd_o.jpg?1661236703077/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,7 +340,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihioh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihioh/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/eddy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#12cc809518d#head--> 인순이 <!--fragment#12cc809518d#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/eddy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5c461ea7ca#head--> 인순이 <!--fragment#5c461ea7ca#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/378/138/09/04/409138378_630481f7_s.jpg?1661239802576/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +348,7 @@
             <link>https://www.music-flo.com/detail/album/edyaionah/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaionah/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddeyaal/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1725e631098#head--> 미카엘 (M!KYLE) <!--fragment#1725e631098#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddeyaal/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ec9b3ff52a#head--> 미카엘 (M!KYLE) <!--fragment#ec9b3ff52a#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/218/137/09/04/409137218_63043ace_s.jpg?1661221584556/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +356,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiahad/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiahad/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edihdenha/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#c0ba75cd99#head--> NIA (니아) <!--fragment#c0ba75cd99#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edihdenha/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1246f893d36#head--> NIA (니아) <!--fragment#1246f893d36#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/810/131/09/04/409131810_6302f5f1_o.jpg?1661138418351/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,7 +364,7 @@
             <link>https://www.music-flo.com/detail/album/edyainooa/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyainooa/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddeloao/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#cf16fdde6d#head--> 헤이진 (HeyJin) <!--fragment#cf16fdde6d#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddeloao/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9e0fde4a3d#head--> 헤이진 (HeyJin) <!--fragment#9e0fde4a3d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/771/132/09/04/409132771_63032a5c_s.jpg?1661151836952/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -372,7 +372,7 @@
             <link>https://www.music-flo.com/detail/album/edyadyzlh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadyzlh/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloeeezo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#17f44d4b8e8#head--> AR+CHAINSTORE (아트체인스토어) <!--fragment#17f44d4b8e8#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloeeezo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#f31efe2f7e#head--> AR+CHAINSTORE (아트체인스토어) <!--fragment#f31efe2f7e#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/658/109/09/04/409109658_62ff5d83_s.jpg?1660902792384/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -380,7 +380,7 @@
             <link>https://www.music-flo.com/detail/album/edyainhde/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyainhde/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdanoyda/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#19a6f734c#head--> 레오 (LEO) <!--fragment#19a6f734c#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdanoyda/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#210cc3b72f#head--> 레오 (LEO) <!--fragment#210cc3b72f#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/804/132/09/04/409132804_63032afb_s.jpg?1661151996402/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +388,7 @@
             <link>https://www.music-flo.com/detail/album/edyadyzho/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadyzho/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><span><!--fragment#648103c42b#head--> Various Artists <!--fragment#648103c42b#tail--></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><span><!--fragment#11089a51cf#head--> Various Artists <!--fragment#11089a51cf#tail--></span></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/687/109/09/04/409109687_62ff5fba_s.jpg?1660903355826/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -396,7 +396,7 @@
             <link>https://www.music-flo.com/detail/album/edyaihdoe/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaihdoe/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnhhhih/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#b024267224#head--> Wooks <!--fragment#b024267224#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnhhhih/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#110fedbbad6#head--> Wooks <!--fragment#110fedbbad6#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/074/138/09/04/409138074_630468a4_s.jpg?1661233318003/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -404,7 +404,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiohhe/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiohhe/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdddinol/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1115326a2e0#head--> 란 (RAN) <!--fragment#1115326a2e0#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdddinol/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#143e20a4588#head--> 란 (RAN) <!--fragment#143e20a4588#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/884/137/09/04/409137884_630457da_s.jpg?1661229019188/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -412,7 +412,7 @@
             <link>https://www.music-flo.com/detail/album/edyaioiel/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaioiel/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdannhoo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#103e2f3c7c1#head--> JAY B <!--fragment#103e2f3c7c1#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdannhoo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1348eed7d2e#head--> JAY B <!--fragment#1348eed7d2e#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/345/137/09/04/409137345_63045c87_s.jpg?1661230216820/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -420,7 +420,7 @@
             <link>https://www.music-flo.com/detail/album/edyadoned/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadoned/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioyyihh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#107e862630b#head--> gump <!--fragment#107e862630b#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioyyihh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13ad5890445#head--> gump <!--fragment#13ad5890445#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/240/107/09/04/409107240_62ff2b9b_s.jpg?1660890012656/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -428,7 +428,7 @@
             <link>https://www.music-flo.com/detail/album/edyainzih/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyainzih/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddldlni/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#f4d372f939#head--> 산이 (San E) <!--fragment#f4d372f939#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdahlala/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#d9cbe7780b#head--> 로코베리 <!--fragment#d9cbe7780b#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddldlni/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#d8e156543d#head--> 산이 (San E) <!--fragment#d8e156543d#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdahlala/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#8702d3a735#head--> 로코베리 <!--fragment#8702d3a735#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/638/132/09/04/409132638_63031cba_s.jpg?1661148348031/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -436,7 +436,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiaeha/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiaeha/albumtrack</guid>
             <pubDate>Wed, 24 Aug 2022 04:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddedlnd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#7acb2dffea#head--> 이구이 (IGWI) <!--fragment#7acb2dffea#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddedlnd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#145ace844a1#head--> 이구이 (IGWI) <!--fragment#145ace844a1#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/481/131/09/04/409131481_6302e085_o.jpg?1661132933773/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -444,7 +444,7 @@
             <link>https://www.music-flo.com/detail/album/edyadhhoz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadhhoz/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/aiede/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#926fc689eb#head--> 소향 <!--fragment#926fc689eb#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/aiede/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#6710d3f73d#head--> 소향 <!--fragment#6710d3f73d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/876/108/09/04/409108876_62ff4e35_s.jpg?1660898871289/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -452,7 +452,7 @@
             <link>https://www.music-flo.com/detail/album/edyaialhn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaialhn/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddedoia/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#6b76553288#head--> BOYHOOD (남동현) <!--fragment#6b76553288#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddedoia/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1245994b6c2#head--> BOYHOOD (남동현) <!--fragment#1245994b6c2#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/582/131/09/04/409131582_6302e7c8_s.jpg?1661134794756/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -460,7 +460,7 @@
             <link>https://www.music-flo.com/detail/album/edyadelen/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadelen/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edealaiaa/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#da0ee96770#head--> 안재우 <!--fragment#da0ee96770#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edealaiaa/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#165863aa414#head--> 안재우 <!--fragment#165863aa414#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/542/104/09/04/409104542_62fef52d_s.jpg?1660876080815/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -468,7 +468,7 @@
             <link>https://www.music-flo.com/detail/album/edyainydn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyainydn/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdidnonl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ac0babada4#head--> Xydo (시도) <!--fragment#ac0babada4#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdidnonl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#fdbc4b1b8a#head--> Xydo (시도) <!--fragment#fdbc4b1b8a#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/902/132/09/04/409132902_630331dd_o.jpg?1661153758853/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -476,7 +476,7 @@
             <link>https://www.music-flo.com/detail/album/edydynloe/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydynloe/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnannhi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#81db29952e#head--> 나상현씨밴드 <!--fragment#81db29952e#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnannhi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#eb8601f2f1#head--> 나상현씨밴드 <!--fragment#eb8601f2f1#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/574/092/09/04/409092574_62fdd5e9_s.jpg?1660802538728/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -484,7 +484,7 @@
             <link>https://www.music-flo.com/detail/album/edyaianni/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaianni/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edldodyoe/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1761fb9e814#head--> IVE (아이브) <!--fragment#1761fb9e814#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edldodyoe/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#14923e9455#head--> IVE (아이브) <!--fragment#14923e9455#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/223/131/09/04/409131223_6302d6a5_s.jpg?1661130406773/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -492,7 +492,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiohhh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiohhh/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><span><!--fragment#cd66083375#head--> Various Artists <!--fragment#cd66083375#tail--></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><span><!--fragment#89a4c48075#head--> Various Artists <!--fragment#89a4c48075#tail--></span></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/888/137/09/04/409137888_630463c1_s.jpg?1661232066668/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -500,7 +500,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiaazn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiaazn/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnyehdi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#158427a30a6#head--> Lym en <!--fragment#158427a30a6#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnyehdi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#15f4ff2e631#head--> Lym en <!--fragment#15f4ff2e631#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/162/131/09/04/409131162_6302d3a1_o.jpg?1661129633687/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -508,7 +508,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiainn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiainn/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddzneza/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#d2d5df2056#head--> DANI (박혁진) <!--fragment#d2d5df2056#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddzneza/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#132f71408a4#head--> DANI (박혁진) <!--fragment#132f71408a4#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/322/131/09/04/409131322_6302dace_o.jpg?1661131471121/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -516,7 +516,7 @@
             <link>https://www.music-flo.com/detail/album/edyainlii/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyainlii/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdanezii/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#e8c3ba983b#head--> 신지현 <!--fragment#e8c3ba983b#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdanezii/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13fb77c1ffe#head--> 신지현 <!--fragment#13fb77c1ffe#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/533/132/09/04/409132533_630317bf_o.jpg?1661147072030/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -524,7 +524,7 @@
             <link>https://www.music-flo.com/detail/album/edydhaeon/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhaeon/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioylzhl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13ccbd7e7a2#head--> 플라이보이트랩 (Flaiboitrap) <!--fragment#13ccbd7e7a2#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioylzhl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#15ae0739a4b#head--> 플라이보이트랩 (Flaiboitrap) <!--fragment#15ae0739a4b#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/472/081/09/04/409081472_62fcb5ed_s.jpg?1660728815561/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -532,7 +532,7 @@
             <link>https://www.music-flo.com/detail/album/edydyedhi/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydyedhi/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnhoznh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#a25fdd3632#head--> 임수연 <!--fragment#a25fdd3632#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnhoznh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#104e0e737#head--> 임수연 <!--fragment#104e0e737#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/083/094/09/04/409094083_62fdeb69_s.jpg?1660808042867/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -540,7 +540,7 @@
             <link>https://www.music-flo.com/detail/album/edydilzzo/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydilzzo/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaoelna/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#152bd130129#head--> 헤이즈 문 (Haze Moon) <!--fragment#152bd130129#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaoelna/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#caf178fb3d#head--> 헤이즈 문 (Haze Moon) <!--fragment#caf178fb3d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/667/035/09/04/409035667_62f5bcb8_s.jpg?1660271802188/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -548,7 +548,7 @@
             <link>https://www.music-flo.com/detail/album/edyadodol/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadodol/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddeadin/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#6b29a13c58#head--> Collective Arts (콜렉티브아츠) <!--fragment#6b29a13c58#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edloiloha/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#62c318f7d9#head--> 섭 <!--fragment#62c318f7d9#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddeadin/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#c73e654385#head--> Collective Arts (콜렉티브아츠) <!--fragment#c73e654385#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edloiloha/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1065c9b7d81#head--> 섭 <!--fragment#1065c9b7d81#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/075/107/09/04/409107075_62ff274c_s.jpg?1660888910150/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -556,7 +556,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiayzo/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiayzo/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloeyind/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#716cc12df5#head--> Lay Blue <!--fragment#716cc12df5#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edlayzeod/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1346fbd7efe#head--> Helen <!--fragment#1346fbd7efe#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloeyind/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#1272cd63782#head--> Lay Blue <!--fragment#1272cd63782#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/edlayzeod/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#bd3b3c9590#head--> Helen <!--fragment#bd3b3c9590#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/967/131/09/04/409131967_6302feb9_o.jpg?1661140666512/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -564,7 +564,7 @@
             <link>https://www.music-flo.com/detail/album/edyadlaal/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadlaal/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edendzazl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#52b7dc0459#head--> AY-Sang Yoo <!--fragment#52b7dc0459#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edendzazl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#6f963b5fbd#head--> AY-Sang Yoo <!--fragment#6f963b5fbd#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/115/105/09/04/409105115_62fefeb3_s.jpg?1660878517444/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -572,7 +572,7 @@
             <link>https://www.music-flo.com/detail/album/edydhaazo/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhaazo/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioohdhn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#10c01739338#head--> CIX (씨아이엑스) <!--fragment#10c01739338#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioohdhn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1245b3895d0#head--> CIX (씨아이엑스) <!--fragment#1245b3895d0#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/167/081/09/04/409081167_62fcaea5_s.jpg?1660726951537/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -580,7 +580,7 @@
             <link>https://www.music-flo.com/detail/album/edydyidil/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydyidil/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaeydoz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#108c47eef31#head--> 한채윤 <!--fragment#108c47eef31#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaeydoz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#768e207db#head--> 한채윤 <!--fragment#768e207db#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/035/093/09/04/409093035_62fdde4a_o.jpg?1660804682745/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -588,7 +588,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiahdi/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiahdi/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioooyad/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#d31128e181#head--> 조광일 <!--fragment#d31128e181#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioooyad/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ad4d1a8d69#head--> 조광일 <!--fragment#ad4d1a8d69#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/803/131/09/04/409131803_6302f43d_s.jpg?1661137984035/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -596,7 +596,7 @@
             <link>https://www.music-flo.com/detail/album/edyadoole/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadoole/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnynnin/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#134c3baf826#head--> Jayci yucca (제이씨 유카) <!--fragment#134c3baf826#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnynnin/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#15ab32cbc3d#head--> Jayci yucca (제이씨 유카) <!--fragment#15ab32cbc3d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/754/107/09/04/409107754_62ff361d_s.jpg?1660892703888/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -604,7 +604,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiazzy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiazzy/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeanaddz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#fba0c8646e#head--> H.Lody (에이치로디) <!--fragment#fba0c8646e#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeanaddz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#cef1eb4ad0#head--> H.Lody (에이치로디) <!--fragment#cef1eb4ad0#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/669/131/09/04/409131669_6302ed78_s.jpg?1661136249503/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -612,7 +612,7 @@
             <link>https://www.music-flo.com/detail/album/edyaiaina/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyaiaina/albumtrack</guid>
             <pubDate>Tue, 23 Aug 2022 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnneele/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#fcbb042e7e#head--> 오닐 (ONiLL) <!--fragment#fcbb042e7e#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnneele/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#21bb676966#head--> 오닐 (ONiLL) <!--fragment#21bb676966#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/321/131/09/04/409131321_6302d9ef_s.jpg?1661131249528/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -620,7 +620,7 @@
             <link>https://www.music-flo.com/detail/album/edyadolnn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadolnn/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeihonzi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#6ce383bd68#head--> 윤서빈 (Yoon Seobin) <!--fragment#6ce383bd68#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeihonzi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5115efe577#head--> 윤서빈 (Yoon Seobin) <!--fragment#5115efe577#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/522/107/09/04/409107522_62ff329d_s.jpg?1660891807543/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -628,7 +628,7 @@
             <link>https://www.music-flo.com/detail/album/edyadhhhd/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadhhhd/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioyynaz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#2fd438d8a1#head--> 12월 <!--fragment#2fd438d8a1#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdnaoheh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9d079233a4#head--> 줄라이모닝 <!--fragment#9d079233a4#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioyynaz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#33dfcb3767#head--> 12월 <!--fragment#33dfcb3767#tail--></a></span><span artist="[object Object]" index="1" class="artist_link"><span class="artist_link_and">&amp;</span><a href="/detail/artist/hdnaoheh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#c7a07492ba#head--> 줄라이모닝 <!--fragment#c7a07492ba#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/880/108/09/04/409108880_62ff56c3_s.jpg?1660901061407/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -636,7 +636,7 @@
             <link>https://www.music-flo.com/detail/album/edydhyyoh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhyyoh/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ndddnnnh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#7822e3b00#head--> 하준석 <!--fragment#7822e3b00#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/ndddnnnh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#10b88de962c#head--> 하준석 <!--fragment#10b88de962c#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/978/089/09/04/409089978_62fda38c_o.jpg?1660789646027/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -644,7 +644,7 @@
             <link>https://www.music-flo.com/detail/album/edyadeoin/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadeoin/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddaoaeo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5b5e24e7e6#head--> 문빛 <!--fragment#5b5e24e7e6#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddaoaeo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#8e2eb251d4#head--> 문빛 <!--fragment#8e2eb251d4#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/732/104/09/04/409104732_62fef906_o.jpg?1660877063848/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -652,7 +652,7 @@
             <link>https://www.music-flo.com/detail/album/edydhdihe/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhdihe/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlonhydl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5b370731d8#head--> 알피네(al fine) <!--fragment#5b370731d8#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlonhydl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#16e48dc1859#head--> 알피네(al fine) <!--fragment#16e48dc1859#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/384/080/09/04/409080384_62fc9d7d_o.jpg?1660722557707/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -660,7 +660,7 @@
             <link>https://www.music-flo.com/detail/album/edyadhooy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadhooy/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddodlni/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#cd322d7593#head--> 나인 (NINE9) <!--fragment#cd322d7593#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddodlni/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#16ded7dca12#head--> 나인 (NINE9) <!--fragment#16ded7dca12#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/779/108/09/04/409108779_62ff4c8b_s.jpg?1660898446079/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -668,7 +668,7 @@
             <link>https://www.music-flo.com/detail/album/edyadoheh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadoheh/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdineyno/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9be6c8a991#head--> LO VOLF <!--fragment#9be6c8a991#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdineyno/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#174698dd0c5#head--> LO VOLF <!--fragment#174698dd0c5#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/848/107/09/04/409107848_62ff39e4_o.jpg?1660893669346/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -676,7 +676,7 @@
             <link>https://www.music-flo.com/detail/album/edyadzheh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadzheh/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlizohiy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#7a9549cfc8#head--> 도하늘 <!--fragment#7a9549cfc8#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edlizohiy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1706010f987#head--> 도하늘 <!--fragment#1706010f987#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/848/106/09/04/409106848_62ff1f00_o.jpg?1660886785666/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -684,7 +684,7 @@
             <link>https://www.music-flo.com/detail/album/edyadhohd/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadhohd/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloeeazz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#7f26267ebc#head--> merry <!--fragment#7f26267ebc#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloeeazz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#172032fbe69#head--> merry <!--fragment#172032fbe69#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/780/108/09/04/409108780_62ff4c8b_o.jpeg?1660898444105/dims/resize/500x500/quality/90" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -692,7 +692,7 @@
             <link>https://www.music-flo.com/detail/album/edyadznyd/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadznyd/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edendehal/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9ecea73a29#head--> 띵크 (th!nk) <!--fragment#9ecea73a29#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edendehal/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#14cb69cfeb#head--> 띵크 (th!nk) <!--fragment#14cb69cfeb#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/290/106/09/04/409106290_62ff174c_o.jpg?1660884812884/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -700,7 +700,7 @@
             <link>https://www.music-flo.com/detail/album/edyadioyi/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadioyi/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaozzzz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#d827bdf170#head--> 강욱 (ganguk) <!--fragment#d827bdf170#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaozzzz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#f4b3a8b533#head--> 강욱 (ganguk) <!--fragment#f4b3a8b533#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/793/103/09/04/409103793_62fee398_s.jpg?1660871578119/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -708,7 +708,7 @@
             <link>https://www.music-flo.com/detail/album/edyadlaaz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadlaaz/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioohaoz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#551002c36a#head--> 15kish <!--fragment#551002c36a#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioohaoz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#158a1adcea9#head--> 15kish <!--fragment#158a1adcea9#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/116/105/09/04/409105116_62fefeb3_o.jpg?1660878516457/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -716,7 +716,7 @@
             <link>https://www.music-flo.com/detail/album/edyadohza/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadohza/albumtrack</guid>
             <pubDate>Sun, 21 Aug 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddnynnn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#8842e905bc#head--> 솔지 <!--fragment#8842e905bc#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddnynnn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#6d070d247b#head--> 솔지 <!--fragment#6d070d247b#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/861/107/09/04/409107861_62ff3a02_s.jpg?1660893700731/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -724,7 +724,7 @@
             <link>https://www.music-flo.com/detail/album/edydhydan/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhydan/albumtrack</guid>
             <pubDate>Sun, 21 Aug 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioyaidi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#159142aaac#head--> BIG Naughty (서동현) <!--fragment#159142aaac#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edioyaidi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#cafad6f893#head--> BIG Naughty (서동현) <!--fragment#cafad6f893#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/012/089/09/04/409089012_62fd90e8_s.jpg?1660784873995/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -732,7 +732,7 @@
             <link>https://www.music-flo.com/detail/album/edyadaonl/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadaonl/albumtrack</guid>
             <pubDate>Sun, 21 Aug 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdayidlo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#143013e9186#head--> 홍이삭 <!--fragment#143013e9186#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdayidlo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#cd79bc5f0#head--> 홍이삭 <!--fragment#cd79bc5f0#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/725/101/09/04/409101725_62fe8d72_s.jpg?1660849524980/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -740,7 +740,7 @@
             <link>https://www.music-flo.com/detail/album/edydhyyny/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhyyny/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeioiohh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1415d9b5a3d#head--> hamzzi <!--fragment#1415d9b5a3d#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edeioiohh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#70a827713d#head--> hamzzi <!--fragment#70a827713d#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/929/089/09/04/409089929_63022b70_s.jpg?1661086579017/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -748,7 +748,7 @@
             <link>https://www.music-flo.com/detail/album/edydyllan/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydyllan/albumtrack</guid>
             <pubDate>Sun, 21 Aug 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddlyyeo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#afc88b7221#head--> Yescoba <!--fragment#afc88b7221#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddlyyeo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#10fe85ff685#head--> Yescoba <!--fragment#10fe85ff685#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/512/095/09/04/409095512_62fe0ad5_o.jpeg?1660816086271/dims/resize/500x500/quality/90" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -756,7 +756,7 @@
             <link>https://www.music-flo.com/detail/album/edyadoila/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadoila/albumtrack</guid>
             <pubDate>Sun, 21 Aug 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddaznao/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#770f2df726#head--> 오왠 (O.WHEN) <!--fragment#770f2df726#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/nddaznao/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#136f69d850a#head--> 오왠 (O.WHEN) <!--fragment#136f69d850a#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/351/107/09/04/409107351_62ff2ec2_o.jpg?1660890819238/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -764,7 +764,7 @@
             <link>https://www.music-flo.com/detail/album/edydhydin/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhydin/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/aolae/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#16bdb699d3e#head--> 유별 <!--fragment#16bdb699d3e#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/aolae/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#fe15e2d452#head--> 유별 <!--fragment#fe15e2d452#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/032/089/09/04/409089032_62fd92ab_o.jpg?1660785324467/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -772,7 +772,7 @@
             <link>https://www.music-flo.com/detail/album/edyadllon/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadllon/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaayozn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#14187a9827e#head--> 카페모카 <!--fragment#14187a9827e#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdaayozn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#49873751f0#head--> 카페모카 <!--fragment#49873751f0#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/572/105/09/04/409105572_62ff0a38_s.jpg?1660881465027/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -780,7 +780,7 @@
             <link>https://www.music-flo.com/detail/album/edyadeoen/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadeoen/albumtrack</guid>
             <pubDate>Sun, 21 Aug 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloiedhe/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#e1e83224a#head--> 엔싸인 (n.SSign) <!--fragment#e1e83224a#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edloiedhe/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#70f23ddebb#head--> 엔싸인 (n.SSign) <!--fragment#70f23ddebb#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/742/104/09/04/409104742_62fef913_s.jpg?1660877080275/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -788,7 +788,7 @@
             <link>https://www.music-flo.com/detail/album/edyadzony/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edyadzony/albumtrack</guid>
             <pubDate>Sun, 21 Aug 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddyilzl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#167ab54808b#head--> 이아람 <!--fragment#167ab54808b#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hddyilzl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#8adb418daf#head--> 이아람 <!--fragment#8adb418daf#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/729/106/09/04/409106729_62ff480d_o.jpg?1660897294820/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -796,7 +796,7 @@
             <link>https://www.music-flo.com/detail/album/edydozoyh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydozoyh/albumtrack</guid>
             <pubDate>Sun, 21 Aug 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edldoondn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#b592582c13#head--> Hollow Young <!--fragment#b592582c13#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/edldoondn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#821e694666#head--> Hollow Young <!--fragment#821e694666#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/798/076/09/04/409076798_62fc4307_s.jpg?1660699400900/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -804,7 +804,7 @@
             <link>https://www.music-flo.com/detail/album/edydhyeoy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edydhyeoy/albumtrack</guid>
             <pubDate>Mon, 22 Aug 2022 03:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnalyye/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#86eb008ece#head--> 모호 프로젝트 <!--fragment#86eb008ece#tail--></a></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span artist="[object Object]" index="0" class="artist_link"><!----><a href="/detail/artist/hdnalyye/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#366a92f77a#head--> 모호 프로젝트 <!--fragment#366a92f77a#tail--></a></span>]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/479/089/09/04/409089479_62fd98c8_o.jpg?1660786890144/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
         </item>
     </channel>
